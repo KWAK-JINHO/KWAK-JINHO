@@ -1,6 +1,3 @@
-KWAK-JINHO / README.md
-
-
 
 ### Studying
 <p>

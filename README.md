@@ -10,3 +10,4 @@
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgh2018)](https://solved.ac/wlsgh2018/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=wlsgh2018&theme=warm)

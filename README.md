@@ -8,3 +8,5 @@
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgh2018)](https://solved.ac/wlsgh2018/)

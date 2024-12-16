@@ -1,13 +1,23 @@
 
 ### Studying
-<p>
+<div>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+</div>
+<div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+</div>
+<div>
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+</div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgh2018)](https://solved.ac/wlsgh2018/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=wlsgh2018&theme=warm)
+<br>
+
+📫 How to reach me: wlsgh2018@naver.com
+
+<br>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="http://mazandi.herokuapp.com/api?handle=wlsgh2018&theme=warm"/>
+</div>
+

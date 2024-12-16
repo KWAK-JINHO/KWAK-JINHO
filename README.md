@@ -21,15 +21,11 @@
     <a href="mailto:kjhkjhkjh1012@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjhkjhkjh1012@gmail.com"/>
     </a>
-    <a href="mailto:wlsgh2018@naver.com">
-      <img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:wlsgh2018@naver.com"/>
-    </a>
   </div>
 
   <!-- Problem Solving Section -->
   <h3>Problem Solving</h3>
   <div>
-    <img src="http://mazandi.herokuapp.com/api?handle=wlsgh2018&theme=warm" style="max-width: 100%; height: auto;"/>
+    <img src="http://mazandi.herokuapp.com/api?handle=wlsgh2018&theme=cold"/> 
   </div>
-
 </div>

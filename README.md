@@ -9,22 +9,19 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   </div>
 
-  <!-- Blog Section -->
-  <h3>Blog</h3>
-  <a href="https://velog.io/@letsmake/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@letsmake/posts"/>
-  </a>
+  <br>
+  
+![KWAK-JINHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=KWAK-JINHO&show_icons=true&theme=radical)
 
-  <!-- Connect Me Section -->
-  <h3>Connect me with</h3>
-  <div>
-    <a href="mailto:kjhkjhkjh1012@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjhkjhkjh1012@gmail.com"/>
-    </a>
-  </div>
+  
 
   <!-- Problem Solving Section -->
   <h3>Problem Solving</h3>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgh2018)](https://solved.ac/wlsgh2018/)
-</div>
+
+  <!-- Blog Section -->
+  <h3>Blog</h3>
+  <a href="https://velog.io/@letsmake/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@letsmake/posts"/>
+  </a>

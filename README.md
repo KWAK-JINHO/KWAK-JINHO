@@ -25,7 +25,6 @@
 
   <!-- Problem Solving Section -->
   <h3>Problem Solving</h3>
-  <div>
-    <img src="http://mazandi.herokuapp.com/api?handle=wlsgh2018&theme=cold"/> 
-  </div>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgh2018)](https://solved.ac/wlsgh2018/)
 </div>

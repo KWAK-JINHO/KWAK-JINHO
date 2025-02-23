@@ -1,7 +1,10 @@
 <div style="text-align: left;">
+  
+  <!-- Introduction -->
+  <h2>안녕하세요. 곽진호입니다 😎</h2>
 
-  <!-- Studying Section -->
-  <h3>Studying</h3>
+  <!-- SKILLS Section -->
+  <h3>SKILLS</h3>
   <div>
     <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>

@@ -1,7 +1,7 @@
 <div style="text-align: left;">
   
   <!-- Introduction -->
-  <h2>안녕하세요. 곽진호입니다 😎</h2>
+  <h2>안녕하세요. 문제 해결을 즐기는 개발자 곽진호라고 합니다. 👊🏼</h2>
 
   <!-- SKILLS Section -->
   <h3>SKILLS</h3>

@@ -1,7 +1,7 @@
 <div style="text-align: left;">
   
   <!-- Introduction -->
-  <h2>다들 화이팅 👊🏼</h2>
+  <h2>Hi there 👋🏻</h2>
 
   <!-- SKILLS Section -->
   <h3>SKILLS</h3>

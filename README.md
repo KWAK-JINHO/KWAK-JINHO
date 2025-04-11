@@ -23,11 +23,4 @@
   <!-- Problem Solving Section -->
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgh2018)](https://solved.ac/wlsgh2018/)
 
-
-
-  <br>
-  
-  <!-- git status Section -->
-  ![KWAK-JINHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=KWAK-JINHO&show_icons=true&theme=radical)
-
 </div>

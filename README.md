@@ -17,17 +17,15 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@letsmake/posts"/>
   </a>
 
-  <br>
-
   <!-- Blog Section -->
   <h3>Projects</h3>
   <div>
     - UIVERSE(사용자 맞춤 추천 오픈마켓 서비스) - 팀장 역할 및 <a href="https://github.com/UIverse-Team/UIverse-BE/tree/develop/backend/JiShop/src/main/java/com/jishop/product">상품/카테고리</a> 백엔드 모듈 담당
   </div>
 
-  <br>
-
   <!-- Problem Solving Section -->
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgh2018)](https://solved.ac/wlsgh2018/)
+  <h3>Algorithm</h3>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsgh2018)](https://solved.ac/wlsgh2018/)  
 
 </div>

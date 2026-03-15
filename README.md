@@ -2,8 +2,7 @@
   
   <!-- Introduction -->
   <h2>Hi there 👋🏻</h2>
-  안녕하세요. 안정적인 시스템을 만드는 백엔드 개발자 곽진호입니다.<br>
-  인성과 실력을 모두 갖춘, 함께 일하고 싶은 개발자를 지향합니다.
+  안녕하세요. 백엔드 개발자 곽진호입니다.<br>
 
   <!-- SKILLS Section -->
   <h3>Tech Stack</h3>
@@ -18,8 +17,15 @@
     <img width="16" height="16" alt="favicon-16x16" src="https://github.com/user-attachments/assets/20b5b44d-d225-4cde-a684-d5298e98ba16" />
     <b>UIverse</b>
     <sub>2025.03 ~ 2025.04</sub><br>
-    사용자 맞춤 추천 오픈마켓 서비스 - 팀장 역할 및 
-    <a href="https://github.com/UIverse-Team/UIverse-BE/tree/develop/backend/JiShop/src/main/java/com/jishop/product">상품/카테고리</a> 백엔드 모듈 담당
+    사용자 맞춤 추천 오픈마켓 서비스 (Team Lead)
+    <br>
+    - 구매자 모듈
+    <a href="https://github.com/UIverse-Team/UIverse-BE/tree/develop/backend/JiShop/src/main/java/com/jishop/product">상품</a>,
+    <a href="https://github.com/UIverse-Team/UIverse-BE/tree/develop/backend/JiShop/src/main/java/com/jishop/option">상품 옵션</a>,
+    <a href="https://github.com/UIverse-Team/UIverse-BE/tree/develop/backend/JiShop/src/main/java/com/jishop/category">카테고리</a>
+    및
+    <a href="https://github.com/UIverse-Team/UIverse-BE/tree/develop/backend/JiSeller/src/main/java/com/jiseller">판매자 모듈</a>
+    개발
   </div>
 
   <h3>Personal Projects</h3>

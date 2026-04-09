@@ -24,11 +24,12 @@
   </section>
 
   <!-- Project Section -->
-  <h3>Team Projects</h3>
+  
+  <h3>Projects</h3>
   <div>
     <img width="16" height="16" alt="favicon-16x16" src="https://github.com/user-attachments/assets/20b5b44d-d225-4cde-a684-d5298e98ba16" />
     <b>UIverse</b>
-    <sub>2025.03 ~ 2025.04</sub><br>
+    <sub>Team Project | 2025.03 ~ 2025.04</sub><br>
     사용자 맞춤 추천 오픈마켓 서비스 (Team Lead)
     <br>
     - 구매자 모듈
@@ -40,9 +41,9 @@
     개발
   </div>
 
-  <h3>Personal Projects</h3>
+  <br>
   <div>
     <img width="16" height="16" alt="favicon-16x16" src="https://github.com/user-attachments/assets/e7d50585-e1f6-43ed-8919-e7e37edefd38" /> 
-    <b>Orr</b> <sub>2026.01 ~ 진행중</sub><br>
+    <b>Orr</b> <sub>Personal Project | 2026.01 ~ 진행중</sub><br>
     루틴, 일정, 목표를 통합 관리하는 생산성 관리 서비스
   </div>

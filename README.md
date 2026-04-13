@@ -11,17 +11,9 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <br />
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" alt="Jenkins" />
+    <img src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=Apache-Groovy&logoColor=white" alt="Groovy" />
   </div>
-
-  <!-- Experience Section -->
-  <section>
-    <h3>Experience</h3>
-    <div>
-      <img src="https://github.com/user-attachments/assets/1caf3513-bcf2-413a-adf8-58913a8890cd" alt="NextCI Korea" width="16" height="16" align="center" />
-      <b>NextCI Korea | DevOps Engineer</b>
-      <sub>2026.04 ~ </sub>
-    </div>
-  </section>
 
   <!-- Project Section -->
   

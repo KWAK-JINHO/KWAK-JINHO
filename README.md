@@ -1,7 +1,7 @@
 <div style="text-align: left;">
   
   <!-- Introduction -->
-  <h2>Hi there 👋🏻</h2>
+  <p>Hi there 👋🏻</> <br>
   안녕하세요. DevOps Engineer 곽진호입니다.<br>
 
   <!-- SKILLS Section -->
@@ -12,8 +12,18 @@
     <br />
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" alt="Jenkins" />
-    <img src="https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=Apache-Groovy&logoColor=white" alt="Groovy" />
   </div>
+
+  ---
+
+  <!-- EXPERIENCE Section -->
+  <h3>Experience</h3>
+  <div>
+    <b>NextCI Korea</b>
+    <sub>DevOps Engineer | 2026.04 ~</sub>
+  </div>
+
+  ---
 
   <!-- Project Section -->
   

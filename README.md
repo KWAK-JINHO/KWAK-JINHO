@@ -1,7 +1,6 @@
 <div style="text-align: left;">
   
   <!-- Introduction -->
-  <p>Hi there 👋🏻</> <br>
   안녕하세요. DevOps Engineer 곽진호입니다.<br>
 
   <!-- SKILLS Section -->

@@ -30,6 +30,6 @@
 
   <div>
     <img width="16" height="16" alt="favicon-16x16" src="https://github.com/user-attachments/assets/e7d50585-e1f6-43ed-8919-e7e37edefd38" /> 
-    <b>Orr</b> <sub>Personal Project | 2026.01 ~ 진행중</sub><br>
+    <b>Orr</b> <sub>Personal Project
     루틴, 일정, 목표를 통합 관리하는 생산성 관리 서비스
   </div>

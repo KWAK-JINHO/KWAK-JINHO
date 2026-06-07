@@ -22,9 +22,8 @@
     <sub>DevOps Engineer | 2026.04 ~</sub>
   </div>
 
+  <!--
   ---
-
-  <!-- Project Section -->
   
   <h3>Projects</h3>
 
@@ -33,3 +32,4 @@
     <b>Orr</b> <sub>Personal Project
     루틴, 일정, 목표를 통합 관리하는 생산성 관리 서비스
   </div>
+  -->
